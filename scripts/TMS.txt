@@ -1,0 +1,11 @@
+/ TMS UP: 1:20 left.
+/delay 50000
+/ TMS: 30 Seconds left.
+/delay 20000
+/ <font color=#FFA500>TMS: 10 Seconds left.</font>
+/delay 5000
+/ <font color=#FF0000>TMS: 5 Seconds left.</font>
+/delay 5000
+/ <font color=#FF0000>TMS Over!</font>
+/delay 30000
+/ TMS: Ready in 10 Seconds

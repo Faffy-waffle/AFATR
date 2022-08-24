@@ -1,0 +1,1 @@
+/g raid <font color=#00FF00>:::<font color=#FFFF00>:::<font color=#FFA500>:::<font color=#FF0000>::: <a href="text://Macro for <a href='chatcmd:///macro %t /assist %t'>Assisting %t</a>">Assist %t Macro</a> <font color=#FF0000>:::<font color=#FFA500>:::<font color=#FFFF00>:::<font color=#00FF00>:::
