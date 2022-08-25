@@ -1,0 +1,7 @@
+/s <font color=#009500>Alpha & Omega:</font> Cast on <font color=#FF0000>%t's team</font>, 80s CD. 
+/delay 50000 
+/s 30s CD left on A&O/CH. 
+/delay 20000 
+/s 10s CD left on A&O/CH. 
+/delay 10000 
+/s <font color=#FF0000> Complete Healing ready!</font>

@@ -1,0 +1,5 @@
+/s <font color=#009500>Complete Healing:</font> Cast on <font color=#FF0000>%t</font>, 30s CD. 
+/delay 20000 
+/s 10s CD left on Complete Healing. 
+/delay 10000 
+/s <font color=#FF0000> Complete Healing ready!</font>

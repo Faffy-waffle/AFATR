@@ -1,0 +1,7 @@
+/s <font color=#009500>Invocation of the Phoenix:</font> Cast on <font color=#FF0000>%t</font>, 60s CD. 
+/delay 30000 
+/s 30s CD left on Invocation. 
+/delay 20000 
+/s 10s CD left on Invocation. 
+/delay 10000 
+/s <font color=#FF0000> Invocation ready!</font>
