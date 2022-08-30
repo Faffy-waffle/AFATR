@@ -1,0 +1,5 @@
+/s <font color=#009500>Nano Shutdown:</font> Cast on <font color=#FF0000>%t</font>, 20s CD. 
+/delay 10000 
+/s 10s CD left on Nano Shutdown. (Nano Shutdown faded!) 
+/delay 10000 
+/s <font color=#FF0000> Nano Shutdown ready!</font>
