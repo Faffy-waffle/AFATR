@@ -1,6 +1,6 @@
-/g raid TMS UP: 1:20 left.
+/g raid <font color=#00FF00>TMS UP: 1:20 left.</font>
 /delay 50000
-/g raid TMS: 30 Seconds left.
+/g raid <font color=#00FFFF>TMS: 30 Seconds left.</font>
 /delay 20000
 /g raid <font color=#FFA500>TMS: 10 Seconds left.</font>
 /delay 5000
@@ -9,3 +9,5 @@
 /g raid <font color=#FF0000>TMS Over!</font>
 /delay 30000
 /g raid TMS: Ready in 10 Seconds
+/delay 10000
+/g raid <font color=#FFFFFF>TMS: Ready!</font>
