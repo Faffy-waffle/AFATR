@@ -1,7 +1,9 @@
 /s <font color=#00FF00>TMS UP: 1:20 left</font>
 /delay 50000
 /s <font color=#00FFFF>TMS: 30 Seconds left.</font>
-/delay 20000
+/delay 10000
+/s <font color=#B300FF>TMS: 20 Seconds left!</font>
+/delay 10000
 /s <font color=#FFA500>TMS: 10 Seconds left.</font>
 /delay 5000
 /s <font color=#FF0000>TMS: 5 Seconds left.</font>
