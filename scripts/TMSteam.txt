@@ -3,7 +3,9 @@
 /t <font color=#00FFFF>TMS: 30 Seconds left.</font>
 /delay 10000
 /t <font color=#B300FF>TMS: 20 Seconds left!</font>
-/delay 10000
+/delay 5000
+/t <font color=#FF00DD>TMS: 15 Seconds left!!!</font>
+/delay 5000
 /t <font color=#FFA500>TMS: 10 Seconds left.</font>
 /delay 5000
 /t <font color=#FF0000>TMS: 5 Seconds left.</font>
