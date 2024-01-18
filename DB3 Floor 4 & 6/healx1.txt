@@ -1,0 +1,5 @@
+/pet "Belamorte" heal
+/delay 1500
+/pet "Belamorte" follow
+/delay 3000
+/pet "Belamorte" follow

@@ -1,0 +1,15 @@
+/text <font color=#00FF00>FLOWERED</font>
+/delay 3000
+/text <font color="#FFA500">7s</font><br>
+/delay 1000
+/text <font color="#FFA500">6s</font><br>
+/delay 1000
+/text <font color="#FF0000">5s</font><br>
+/delay 1000
+/text <font color="#FF0000">4s</font><br>
+/delay 1000
+/text <font color="#FF0000">3s</font><br>
+/delay 1000
+/text <font color="#FF0000">2s</font><br>
+/delay 1000
+/text <font color="#FF0000">1s</font><br>
